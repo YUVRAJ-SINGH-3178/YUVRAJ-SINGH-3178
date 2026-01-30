@@ -54,8 +54,7 @@ const yuvraj = {
 ```
 
 <br clear="both">
-
-PORTFOLIO:- <a src="reliable-capybara-164812.netlify.app](https://reliable-capybara-164812.netlify.app"></a> 
+ 
 ---
 
 <!-- TECH STACK -->
