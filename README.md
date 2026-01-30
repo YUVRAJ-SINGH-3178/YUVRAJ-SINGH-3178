@@ -55,7 +55,7 @@ const yuvraj = {
 
 <br clear="both">
 
-PORTFOLIO:- <a href="reliable-capybara-164812.netlify.app"><img src="https://img.shields.io/github//YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&color=blue" alt="Followers"/></a> 
+PORTFOLIO:- <a href="[reliable-capybara-164812.netlify.app](https://reliable-capybara-164812.netlify.app/)"><img src="https://img.shields.io/github//YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&color=blue" alt="Followers"/></a> 
 ---
 
 <!-- TECH STACK -->
