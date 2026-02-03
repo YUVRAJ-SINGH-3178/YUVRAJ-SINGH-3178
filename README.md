@@ -111,9 +111,9 @@ const yuvraj = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240884317-2a72b6ad-7c1a-4490-9f3a-3f9d2a7c29b8.gif" width="260" />
-<img src="https://user-images.githubusercontent.com/74038190/240884393-7ad9d5d3-f0f1-4c56-9f83-3e6b1f4e1b1f.gif" width="260" />
-<img src="https://user-images.githubusercontent.com/74038190/240884436-4de2e0aa-1b14-4f6b-8a6d-7d1c1a5f2c7b.gif" width="260" />
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="Anime Coding Aesthetic" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="260" alt="Anime Tech Vibes" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260" alt="Anime Dev Energy" />
 
 </div>
 
