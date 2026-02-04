@@ -119,6 +119,32 @@ const yuvraj = {
 
 ---
 
+<!-- CERTIFICATIONS -->
+## 🎖️ Achievement Scrolls
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+
+</div>
+
+<div align="center">
+
+| 🏆 Quest | Issuer | Year | Skills |
+|:--|:--|:--:|:--|
+| **Cybersecurity Analyst Simulation** | ![Tata](https://img.shields.io/badge/Tata-1f2937?style=flat-square&logo=tata&logoColor=white) ![Forage](https://img.shields.io/badge/Forage-ec4899?style=flat-square) | 2026 | Security Analysis, Threat Detection |
+| **Software Engineering Simulation** | ![EA](https://img.shields.io/badge/Electronic_Arts-000?style=flat-square&logo=ea&logoColor=white) ![Forage](https://img.shields.io/badge/Forage-ec4899?style=flat-square) | 2026 | System Design, Engineering |
+| **Getting Started with Cybersecurity** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | 2026 | Network Security, Risk Management |
+| **Campus Ambassador** | ![IIT Guwahati](https://img.shields.io/badge/IIT_Guwahati-0f172a?style=flat-square) ![E-Cell](https://img.shields.io/badge/E--Cell-f97316?style=flat-square) | 2025 | Leadership, Event Management |
+| **Python Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Python Programming |
+| **Problem Solving** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | DSA, Algorithms |
+| **SQL Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Database Management |
+| **Java Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Java Programming |
+
+</div>
+
+---
+
 <!-- METRICS -->
 ## 📊 Power Levels
 
