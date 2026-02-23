@@ -1,243 +1,380 @@
-<!-- ANIME HERO -->
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,13,2&height=270&section=header&text=YUVRAJ%20SINGH&fontSize=86&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Anime%20Aesthetic%20%7C%20Clean%20Code%20%7C%20Open%20Source&descAlignY=58&descAlign=50)
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1100&color=FF5DA2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Crafting+elegant+code+with+anime+energy+%F0%9F%8C%B8;Shipping+real+products+with+clean+architecture+%E2%9C%A8;Open+Source+Contributor+%7C+CS+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</a>
-
-<p>
-    <img src="https://komarev.com/ghpvc/?username=YUVRAJ-SINGH-3178&style=for-the-badge&color=ec4899" alt="Profile Views" />
-    <a href="https://github.com/YUVRAJ-SINGH-3178?tab=followers"><img src="https://img.shields.io/github/followers/YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&color=f97316" alt="Followers"/></a>
-    <img src="https://img.shields.io/badge/Status-Shipping-8b5cf6?style=for-the-badge" alt="Status"/>
-</p>
-
-<p>
-    <a href="https://www.linkedin.com/in/yuvraj-singh-0b9427368"><img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/></a>
-    <a href="https://leetcode.com/u/Yuvraj-Singh-3178/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=f59e0b"/></a>
-    <a href="mailto:satishyuvraj.singh3178@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444"/></a>
-</p>
-
-</div>
-
----
-
-<!-- ANIME STORY -->
-<img align="right" alt="Anime Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-## 🌸 About Me
-
-I’m a CS student from India who builds fast, elegant software. I love clean architecture, smooth UX, and shipping real features — with a bit of anime flair.
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HEADER                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Anime Divider](https://user-images.githubusercontent.com/74038190/240884361-0c7b5d8b-0c2d-49b4-9b0b-3924de6f4f5b.gif)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=220&text=YUVRAJ%20SINGH&fontSize=82&fontColor=F0EAD6&fontAlignY=52&desc=FULL%20STACK%20DEV%20%2F%2F%20CS%20STUDENT%20%2F%2F%20OPEN%20SOURCE&descSize=14&descAlignY=73&descColor=FF2D00&animation=fadeIn)
 
 </div>
 
-### 🍡 Now
+<div align="center">
 
-- Building full‑stack products and shipping weekly
-- Studying system design and scalable architectures
-- Contributing to open‑source and learning in public
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=FF2D00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+real+things.+No+shortcuts%2C+no+fluff.;Self-taught+%7C+MERN+%2B+Supabase+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;;Open+to+internships+%26+collaborations." alt="Typing SVG" /></a>
 
-### 🧩 Character Sheet
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YUVRAJ-SINGH-3178&style=flat-square&color=FF2D00&label=PROFILE+VIEWS)](https://github.com/YUVRAJ-SINGH-3178)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/YUVRAJ-SINGH-3178?style=flat-square&label=FOLLOWERS&color=0A0A0A&labelColor=0A0A0A&logoColor=F0EAD6)](https://github.com/YUVRAJ-SINGH-3178?tab=followers)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=flat-square)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3&reversal=false" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT + PORTFOLIO STRIP                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈%20PORTFOLIO%20→%20YS__3178-0A0A0A?style=for-the-badge&logoColor=F0EAD6)](https://reliable-capybara-164812.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/yuvraj-singh-0b9427368)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=f59e0b)](https://leetcode.com/u/Yuvraj-Singh-3178/)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:satishyuvraj.singh3178@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding gif"/>
+
+## `— 001` &nbsp; ABOUT
+
+CS student from India. **Self-taught**. Building things that actually matter.
+
+Currently grinding **Advanced React Patterns** & **System Design**.
+ECWoC 2026 open source contributor. Team Lead on **Cupid** — a full campus platform built with real-time features, a social layer, and a 4-mode theming engine.
+
+Stack: TypeScript + React frontend · Node/Express + PostgreSQL backend · Supabase for real-time.
+
+> *"Build clean. Ship fast. Learn always."*
+
+<br/>
 
 ```typescript
 const yuvraj = {
-    class: "Full‑Stack Developer",
-    origin: "India 🇮🇳",
-    skills: ["TypeScript", "JavaScript", "Python", "C++", "C"],
-    traits: ["Product Engineering", "System Design", "Open Source"],
-    motto: "Build clean. Ship fast. Learn always."
+    role:    "Full-Stack Developer",
+    origin:  "India 🇮🇳",
+    current: "ECWoC 2026 — Open Source Contributions",
+    code:    ["TypeScript", "JavaScript", "Python", "C++", "C"],
+    stack:   {
+        frontend: ["React 18", "Next.js", "TailwindCSS", "Framer Motion"],
+        backend:  ["Node.js", "Express", "PostgreSQL", "Supabase"],
+        tools:    ["Vite", "Git", "VS Code"]
+    },
+    motto: "No shortcuts. No fluff. Just pure code and caffeine ☕"
 };
 ```
 
-<br clear="both">
+<br clear="right"/>
 
----
+<br/>
 
-<!-- SKILLS -->
-## 🏯 Tech Dojo
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- FEATURED: CUPID                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 002` &nbsp; FEATURED PROJECT
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 🚀 &nbsp; CUPID — Campus Experience Platform
+
+![FEATURED](https://img.shields.io/badge/FEATURED-FF2D00?style=flat-square)
+![TEAM LEAD](https://img.shields.io/badge/TEAM%20LEAD-0A0A0A?style=flat-square)
+![LIVE](https://img.shields.io/badge/LIVE%20ON%20VERCEL-22c55e?style=flat-square)
+
+> *"Neon Streets. Digital Souls."*
+
+Futuristic, collaborative campus dashboard for **SRM AP**. Combines real-time location tracking, social squads, dynamic event hub, and a **4-mode immersive theming engine** into one high-performance web app.
+
+**Themes:** Cyberpunk · Solar Flare · Vaporwave · Obsidian Gold
+
+**Features:**
+- 🗺️ Live campus map with occupancy heatmaps & empty classroom finder
+- 🤝 Real-time squad check-ins & live friend tracking
+- 💬 Global & topic-based campus chat (Vibration API for haptics)
+- 📅 Dynamic event discovery + live activity feed
+- 🔐 Supabase Postgres RLS — full data isolation per user
+
+<kbd>React 18</kbd> <kbd>Vite</kbd> <kbd>Supabase</kbd> <kbd>Framer Motion</kbd> <kbd>TailwindCSS</kbd> <kbd>PostgreSQL</kbd>
+
+<br/>
+
+[![View Live](https://img.shields.io/badge/◈%20VIEW%20LIVE%20DEMO-FF2D00?style=for-the-badge)](https://cupid-gules.vercel.app)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/SOURCE%20CODE-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YUVRAJ-SINGH-3178/Cupid-)
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" alt="Cupid project visual"/>
+
+<br/>
+
+**Team:** Bug Sneaker<br/>
+<sub>Yuvraj Singh (Lead) · Aayush Bansal · Akshat · Adarsh · Eshita </sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ALL PROJECTS                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 003` &nbsp; SELECTED WORK
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240884278-8feacda4-9cd4-4a7d-9c3a-f6b0b9b4f0d3.gif" width="120" />
+| # | Project | What it does | Stack |
+|:--|:--------|:------------|:------|
+| `01` | 🔮 [**CUPID**](https://github.com/YUVRAJ-SINGH-3178/Cupid-) | Futuristic campus dashboard — real-time tracking, social squads, event hub | <kbd>React</kbd> <kbd>Supabase</kbd> <kbd>Framer Motion</kbd> |
+| `02` | 🔐 [**WEALTH-VAULT**](https://github.com/YUVRAJ-SINGH-3178/Wealth-Vault) | Financial wellness app (ECWoC 2026) | <kbd>TypeScript</kbd> <kbd>React</kbd> |
+| `03` | 💻 [**ENCODE**](https://github.com/YUVRAJ-SINGH-3178/Encode) | Food ingredients decoder — know what you eat | <kbd>JavaScript</kbd> |
+| `04` | 🏥 [**NIROGYA**](https://github.com/YUVRAJ-SINGH-3178/Nirogya) | Healthcare app for patient care delivery | <kbd>TypeScript</kbd> |
+| `05` | 🤝 [**CONNECTEASE**](https://github.com/YUVRAJ-SINGH-3178/ConnectEase) | Social connection platform | <kbd>TypeScript</kbd> |
+| `06` | ♟️ [**CHESS GAME**](https://github.com/YUVRAJ-SINGH-3178/Chess_Game) | Full PvP chess logic with Pygame | <kbd>Python</kbd> <kbd>Pygame</kbd> |
+| `07` | 🎮 [**QUIZ-GAME**](https://github.com/YUVRAJ-SINGH-3178/Quiz-Game) | Interactive terminal quiz game | <kbd>C++</kbd> |
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 004` &nbsp; TECH ARSENAL
 
 <div align="center">
 
-![Anime Tech](https://skillicons.dev/icons?i=ts,js,py,cpp,c,react,next,tailwind,html,css,nodejs,express,postgres,git,github,vscode,vite&theme=dark)
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,python&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma&theme=dark&perline=5" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-| Scroll | Mastery |
-|:--|:--|
-| Languages | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| Backend & Data | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| Domain | Tools |
+|:-------|:------|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
----
+<br/>
 
-<!-- PROJECTS -->
-## ⚔️ Featured Arcs
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
 
-| Arc | Synopsis | Stack |
-|:--|:--|:--|
-| 🔐 [**Wealth-Vault**](https://github.com/YUVRAJ-SINGH-3178/Wealth-Vault) | Financial wellness app for ECWoC 2026 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) |
-| 💻 [**Encode**](https://github.com/YUVRAJ-SINGH-3178/Encode) | Decode food ingredients instantly | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) |
-| 🏥 [**Nirogya**](https://github.com/YUVRAJ-SINGH-3178/Nirogya) | Healthcare platform with a modern UI | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🤝 [**ConnectEase**](https://github.com/YUVRAJ-SINGH-3178/ConnectEase) | Social connection experience | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ♟️ [**Chess_Game**](https://github.com/YUVRAJ-SINGH-3178/Chess_Game) | PvP chess built with Pygame | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 💰 [**Smart-Finance-Tracker**](https://github.com/YUVRAJ-SINGH-3178/Smart-Finance-Tracker) | Clean dashboards for personal finance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| ⏱️ [**Chronos**](https://github.com/YUVRAJ-SINGH-3178/Chronos) | Cyberpunk‑style data terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🎮 [**Quiz-Game**](https://github.com/YUVRAJ-SINGH-3178/Quiz-Game) | Interactive quiz game in C++ | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+<br/>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- STATS                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
----
-
-<!-- ANIME VISUALS -->
-## 🎐 Anime Vibes
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="Anime Coding Aesthetic" />
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="260" alt="Anime Tech Vibes" />
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260" alt="Anime Dev Energy" />
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-## 🎖️ Achievement Scrolls
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-
-</div>
-
-<div align="center">
-
-| 🏆 Quest | Issuer | Year | Skills |
-|:--|:--|:--:|:--|
-| **Cybersecurity Analyst Simulation** | ![Tata](https://img.shields.io/badge/Tata-1f2937?style=flat-square&logo=tata&logoColor=white) ![Forage](https://img.shields.io/badge/Forage-ec4899?style=flat-square) | 2026 | Security Analysis, Threat Detection |
-| **Software Engineering Simulation** | ![EA](https://img.shields.io/badge/Electronic_Arts-000?style=flat-square&logo=ea&logoColor=white) ![Forage](https://img.shields.io/badge/Forage-ec4899?style=flat-square) | 2026 | System Design, Engineering |
-| **Getting Started with Cybersecurity** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | 2026 | Network Security, Risk Management |
-| **Campus Ambassador** | ![IIT Guwahati](https://img.shields.io/badge/IIT_Guwahati-0f172a?style=flat-square) ![E-Cell](https://img.shields.io/badge/E--Cell-f97316?style=flat-square) | 2025 | Leadership, Event Management |
-| **Python Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Python Programming |
-| **Problem Solving** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | DSA, Algorithms |
-| **SQL Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Database Management |
-| **Java Certification** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=000) | 2025 | Java Programming |
-
-</div>
-
----
-
-<!-- METRICS -->
-## 📊 Power Levels
+## `— 005` &nbsp; POWER LEVELS
 
 <div align="center">
 
 <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YUVRAJ-SINGH-3178&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YUVRAJ-SINGH-3178&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&title_color=FF2D00&icon_color=FF2D00" />
 </a>
 <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=YUVRAJ-SINGH-3178&theme=tokyonight&hide_border=true&border_radius=16" />
+  <img height="175em" src="https://github-readme-streak-stats-eight.vercel.app/?user=YUVRAJ-SINGH-3178&theme=tokyonight&hide_border=true&border_radius=0&ring=FF2D00&fire=FF2D00&currStreakLabel=FF2D00" />
 </a>
+
 <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YUVRAJ-SINGH-3178&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" />
+  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YUVRAJ-SINGH-3178&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&langs_count=8&title_color=FF2D00" />
 </a>
 
 </div>
 
----
+<br/>
 
-<!-- VISUALS -->
-## 🗺️ Journey Map
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YUVRAJ-SINGH-3178&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Yuvraj's%20Contribution%20Graph)](https://github.com/YUVRAJ-SINGH-3178)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YUVRAJ-SINGH-3178&theme=tokyo-night&hide_border=true&radius=0&area=true&area_color=FF2D00&color=FF2D00&line=FF2D00&point=F0EAD6&custom_title=Contribution%20Graph%20%2F%2F%20YUVRAJ%20SINGH)](https://github.com/YUVRAJ-SINGH-3178)
 
 </div>
 
----
+<br/>
 
-<!-- LEETCODE -->
-## 🎴 LeetCode
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 006` &nbsp; CERTIFICATIONS
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Yuvraj-Singh-3178?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/Yuvraj-Singh-3178/)
+| Certificate | Issuer | Date |
+|:------------|:-------|:----:|
+| **Cyber Security — Skill Up** | GeeksForGeeks | `JAN 2026` |
+| **Software Engineering Simulation** | Electronic Arts × Forage | `JAN 2026` |
+| **Getting Started with Cybersecurity** | IBM | `JAN 2026` |
+| **Cybersecurity Analyst Simulation** | TATA × Forage | `JAN 2026` |
+| **Campus Ambassador Internship** | E-Cell · IIT Guwahati | `NOV 2025` |
+| **HTML / CSS** | HackerRank | `OCT 2025` |
+| **Problem Solving** | HackerRank | `SEP 2025` |
+| **SQL** | HackerRank | `SEP 2025` |
+| **Python** | HackerRank | `AUG 2025` |
 
 </div>
 
----
+<br/>
 
-<!-- LIVE FOCUS -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- LEETCODE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 007` &nbsp; LEETCODE
+
 <div align="center">
 
-## 🎯 Current Focus
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Yuvraj-Singh-3178?theme=dark&font=Fira+Code&ext=heatmap&border=0)](https://leetcode.com/u/Yuvraj-Singh-3178/)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- RED RULE                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D00&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CURRENT FOCUS                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## `— 008` &nbsp; CURRENT FOCUS
 
 ```
-📚 Learning: Advanced React Patterns & System Design
-🔭 Working on: Open Source Contributions (ECWoC 2026)
-🌱 Growing: TypeScript & Node.js skills
-🤝 Open to: Collaboration on interesting projects
-💬 Ask me about: Python, JavaScript, React, Building cool stuff!
+◈  Learning   →  Advanced React Patterns · System Design
+◈  Building   →  Open Source Contributions (ECWoC 2026)
+◈  Growing    →  TypeScript · Node.js · Supabase
+◈  Open to    →  Collaborations · Internships · Cool Problems
+◈  Ask me     →  Python · JavaScript · React · Building things
 ```
 
-</div>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- QUOTE -->
+## `— 009` &nbsp; LET'S CONNECT
+
 <div align="center">
 
-## 💭 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<!-- CONNECT -->
-<div align="center">
-
-## 🤝 Let’s Connect
-
+<a href="https://reliable-capybara-164812.netlify.app/">
+  <img src="https://img.shields.io/badge/◈%20PORTFOLIO-0A0A0A?style=for-the-badge&logoColor=F0EAD6" alt="Portfolio"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/yuvraj-singh-0b9427368">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:satishyuvraj.singh3178@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444"/>
+  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/Yuvraj-Singh-3178/">
-    <img src="https://img.shields.io/badge/Challenge_on_LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=f59e0b"/>
+  <img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=f59e0b" alt="LeetCode"/>
 </a>
 
----
+<br/><br/>
 
-### 💖 Thanks for visiting
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680" alt="Thanks for visiting"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+<br/>
 
-If you like my work, consider giving a ⭐ to my repos!
+**If you like my work, drop a ⭐ on the repos.**
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,13,2&height=100&section=footer)
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=80&text=YS__3178%20%2F%2F%20BUILT%20FROM%20SCRATCH&fontSize=18&fontColor=FF2D00&fontAlignY=55&desc=%C2%A9%202026%20YUVRAJ%20SINGH&descAlignY=78&descSize=11&descColor=F0EAD6)
 
 </div>
 
