@@ -148,7 +148,7 @@ Solidity    █████░░░░░░░ 40%
 
 | Badge | Achievement | Status |
 |:---:|---|:---:|
-| 🦈 | **Pull Shark** — Merged pull requests | 🔒 Unlocking |
+| 🦈 | **Pull Shark** — Merged pull requests | Unlocked 🔓 |
 | ⚡ | **Quickdraw** — Closed issue/PR within 5 min | 🔒 Unlocking |
 | 🌟 | **Starstruck** — Repo with 16+ stars | 🔒 Unlocking |
 | 🧠 | **Galaxy Brain** — Marked helpful answer | 🔒 Unlocking |
