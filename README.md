@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Crafting+mobile+UIs+with+Flutter+%F0%9F%93%B1;Connecting+everything+with+MERN+%F0%9F%94%97;Web3+is+the+future+and+I%27m+early+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Crafting+mobile+UIs+with+Flutter+%F0%9F%93%B1;Connecting+everything+with+MERN+%F0%9F%94%97;" alt="Typing SVG" />
   </a>
 </div>
 
