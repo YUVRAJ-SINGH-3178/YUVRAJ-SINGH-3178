@@ -1,7 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=YUVRAJ%20SINGH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20·%20Web3%20·%20Blockchain%20·%20Mobile&descSize=16&descAlignY=80&descColor=a78bfa"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Yuvraj Singh Hero Banner" src="./dark.svg">
+  </picture>
 </div>
 
 <br/>
