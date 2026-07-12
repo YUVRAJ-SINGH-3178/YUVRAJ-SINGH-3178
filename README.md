@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Yuvraj Singh Hero Banner" src="./dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
+    <img alt="Yuvraj Singh Hero Banner" src="dark.svg?v=2">
   </picture>
 </div>
 
