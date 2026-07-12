@@ -9,15 +9,15 @@ img = Image.open(BytesIO(response.content))
 
 # Enhance contrast for better ASCII mapping
 enhancer = ImageEnhance.Contrast(img)
-img = enhancer.enhance(1.5)
+img = enhancer.enhance(1.8) # increased contrast
 
 width = 46
 aspect_ratio = img.height / img.width
 height = int(aspect_ratio * width * 0.5)
 img = img.resize((width, height)).convert('L')
 
-# More detailed character set for better accuracy
-chars = ['@', '%', '#', '*', '+', '=', '-', ':', '.', ' ']
+# Simpler, cleaner character set that looks better with gradients
+chars = ['#', 'S', '%', '?', '*', '+', ':', '.', ' ', ' ']
 pixels = img.getdata()
 
 for y in range(height):

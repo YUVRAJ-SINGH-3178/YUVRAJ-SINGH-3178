@@ -28,6 +28,15 @@
             <stop offset="50%" stop-color="rgba(255,255,255,0.08)" stop-opacity="0.1"/>
             <stop offset="100%" stop-color="rgba(255,255,255,0.08)" stop-opacity="0.8"/>
         </linearGradient>
+        
+        <linearGradient id="asciiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#22D3EE">
+                <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#22D3EE" dur="5s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#7C3AED">
+                <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#7C3AED" dur="5s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
 
         <!-- Filters -->
         <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
@@ -105,98 +114,98 @@
             <animate attributeName="y" values="0;530;0" dur="8s" repeatCount="indefinite" />
         </rect>
         
-        <g transform="translate(40, 100)" style="font-family: monospace; font-size: 11px; font-weight: bold; fill: url(#accentGradient);" filter="url(#glow)">
+        <g transform="translate(40, 100)" style="font-family: monospace; font-size: 11px; fill: url(#asciiGradient);" filter="url(#glow)">
 
             <text x="0" y="0" opacity="0">
-                *@@@%%##%%@@#*++++++*#%%#*+==-----==+===-=--=+
+                *####S%%S###%****++*?%SS%?++:::::::++++:::::+*
                 <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="14" opacity="0">
-                #@@@@%%%%%@@#****##@@@@@@@%#****+=-==--------+
+                S###########%*????%#######S%????*+:+:::::::::*
                 <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="28" opacity="0">
-                @@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@#+-::----:-+
+                ##################################%*:...:::..+
                 <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="42" opacity="0">
-                @@@@@@@##@@@@@@@@@@@@@@@@@@@@@@@@@@@+-::---:-=
+                #######%%###########################*....::..+
                 <animate attributeName="opacity" from="0" to="1" begin="0.30000000000000004s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="56" opacity="0">
-                %@@%%#==@@@@@@@@@@@@@@@@@@@@@@@@@@@@#----:::-=
+                ####S%:+############################%:.......+
                 <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="70" opacity="0">
-                #%%#=:-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=--::::=
+                S#S%+.:%############################S?:::.&#160;&#160;.:
                 <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="84" opacity="0">
-                %%*-:-+@@@@@@@@@%#%%%%%%@@@@@@@@@@@@@@+---:::=
+                ##?:.:*#########S%SSSSSS##############*::....:
                 <animate attributeName="opacity" from="0" to="1" begin="0.6000000000000001s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="98" opacity="0">
-                %*-::=%@@@@@@@%+--==+++++*%@@@@@@@@@@#-------=
+                S*.&#160;.:S#######S*:::++**+*?S##########%::::...+
                 <animate attributeName="opacity" from="0" to="1" begin="0.7000000000000001s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="112" opacity="0">
-                =:::-+@@@@@@@*=--::----====**%@@@@@@%=----:::=
+                :.&#160;&#160;.*#######?+:.....::++:+??S######S+:::....:
                 <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="126" opacity="0">
-                ::::-#@@@@@@+=---::::::::---=+%@@@@@#=--:::--=
+                &#160;&#160;&#160;.:%######*::...&#160;&#160;&#160;&#160;&#160;&#160;..:::*######%::.....:+
                 <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="140" opacity="0">
-                :--=+**%@@@#+++===--::--=++***#%@@@@+==------+
+                &#160;.:+*?*S###%**+++::....:+***??%S####*+::....:+
                 <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="154" opacity="0">
-                -+***+*#@@#%%%%@@@%#**#%@@@@%%@#%@@#*+=====--=
+                :+???*?%##%SSS####S%??%S#######SS##%?*++:++::+
                 <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="168" opacity="0">
-                **####%@%%**#%#%%%%*=-*%@%%%@@%**@#**====*%##*
+                ??%%%%S#SS??%SSSSSS?::?S#SSS##S??#%??+::+?S%%?
                 <animate attributeName="opacity" from="0" to="1" begin="1.2000000000000002s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="182" opacity="0">
-                #@@@%@@@%%*======-=-::-+====+===*#+**+*###*##*
+                %#######SS*::+++::::..:++:++++:+?%+??*?%%%?%%?
                 <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="196" opacity="0">
-                %%%@##%@@%*-::..:---::-==:::::-=***%##@@%%***+
+                SSS#%%###S?:.&#160;&#160;&#160;&#160;:::&#160;&#160;:++.&#160;&#160;&#160;.:+???S%%##SS???*
                 <animate attributeName="opacity" from="0" to="1" begin="1.4000000000000001s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="210" opacity="0">
-                %%@@%*@@@**=-:::-=**++*#*=---==*#=#%%@@%%#*-=*
+                SS##S?###??+:....+??+*?%*::..:+?%+%#S###SS?.+?
                 <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="224" opacity="0">
-                @@@@@@@%%%%*+++*++*#%%##**##***#%#@%%%@@@%%###
+                #########SS?*+*?**?%SS%%??%%*??%S%##SS###SS%%%
                 <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="238" opacity="0">
-                @@@@@@@@@@@#*+*##**++++*####+*#%#*#@%#@@@@@%%%
+                ###########%?*?%%??**+*?%%?%**%S%?%##S######SS
                 <animate attributeName="opacity" from="0" to="1" begin="1.7000000000000002s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="252" opacity="0">
-                =++*#%@%#*+#%*+=-=*******===+#%#++*=#@@@@@@%%%
+                +++*%S#S%?+%S?*+:+*?*???*+:+*%#%**?:%#######SS
                 <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="266" opacity="0">
-                ::.::::.-.-#@##*+=-====--=+#%@#%#**+.*@@@@@@%%
+                &#160;&#160;&#160;&#160;.&#160;.&#160;:&#160;.%#%%?*::+++::::*%S#SS%??+&#160;?######S#
                 <animate attributeName="opacity" from="0" to="1" begin="1.9000000000000001s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="280" opacity="0">
-                ::..:......*%*#%%#++==++*#%@@#*%###+..=%@@@@@@
+                .&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;?#?%SS%*+++**?%###%?S%%%+&#160;&#160;:S######
                 <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="294" opacity="0">
-                .:.........-%#+*#%@@@@@@@@@%#**#*=*-....:-*#@@
+                &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:S%**%S#########S%*?%?+?:&#160;&#160;&#160;&#160;.:?S##
                 <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.5s" fill="freeze" />
             </text>
             <text x="0" y="308" opacity="0">
-                .......-=...*%*+++*##%%%%##*++**+-=.........:=
+                &#160;&#160;&#160;&#160;&#160;&#160;&#160;:+&#160;&#160;&#160;?S****?%%SSSS%%?**??+::&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.+
                 <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.5s" fill="freeze" />
             </text>
         </g>
@@ -269,7 +278,7 @@
             <g transform="translate(0, 240)">
                 <text x="0" y="0" class="text-primary text-mono" style="font-size: 18px;" opacity="0">
                     <animate attributeName="opacity" to="1" begin="6s" dur="0.5s" fill="freeze"/>
-                    > skills.load()
+                    &gt; skills.load()
                 </text>
                 
                 <g transform="translate(0, 20)">
