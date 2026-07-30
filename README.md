@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Crafting+mobile+UIs+with+Flutter+%F0%9F%93%B1;Connecting+everything+with+MERN+%F0%9F%94%97;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-stack+dev+%7C+MERN+%2B+Flutter+%F0%9F%93%B1;Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Shipping+side+projects+%F0%9F%9A%80;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,16 +32,15 @@
 
 ```
 Name      →  Yuvraj Singh
-Role      →  Student & Full Stack Dev
+Role      →  Student & Full Stack Developer
 Stack     →  MERN | Flutter | Web3
 Location  →  India 🇮🇳
-Status    →  Building · Learning · Shipping
+Status    →  Building developer tools & shipping side projects
 ```
 
-**🔭 Currently building** dApps & cross-platform apps  
-**🌱 Deep-diving into** Solidity, DeFi protocols, Kotlin  
-**🤝 Want to collaborate** on Web3 & Open Source  
-**⚡ Fun fact:** I've written more `console.log` than actual logic
+**🔭 Currently building** developer tooling — see [Errly](https://github.com/YUVRAJ-SINGH-3178/Errly) below  
+**🌱 Deep-diving into** Solidity, DeFi protocols, and Kotlin for Android  
+**🤝 Open to collaborating** on Full-Stack and open source
 
 <br clear="right"/>
 
@@ -100,33 +99,9 @@ Solidity    █████░░░░░░░ 40%
 
 ---
 
-## 💬 Most Used Languages
-
-<div align="center">
-
-<!-- skillicons.dev — zero rate limits, always loads -->
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,py,cpp,solidity&theme=dark&perline=7" />
-
-<br/><br/>
-
-| Language | Usage |
-|---|---|
-| JavaScript / TypeScript | `████████████░░` &nbsp; Primary |
-| Dart (Flutter) | `██████████░░░░` &nbsp; Mobile |
-| Kotlin | `████████░░░░░░` &nbsp; Android |
-| Python | `███████░░░░░░░` &nbsp; Scripting |
-| C / C++ | `██████░░░░░░░░` &nbsp; DSA |
-| Solidity | `█████░░░░░░░░░` &nbsp; Web3 |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Pure shields.io — reads directly from GitHub API, never fails -->
 
 ![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&label=Total%20Stars&color=f1c40f)
 &nbsp;
@@ -136,9 +111,9 @@ Solidity    █████░░░░░░░ 40%
 
 <br/><br/>
 
-| 🏅 Total Contributions | 🔥 Longest Streak | 📅 Member Since |
-|:---:|:---:|:---:|
-| **336+** | **5 days** | **Jul 2025** |
+| 🏅 Total Contributions | 📅 Member Since |
+|:---:|:---:|
+| **336+** | **Jul 2025** |
 
 </div>
 
@@ -154,10 +129,7 @@ Solidity    █████░░░░░░░ 40%
 | ⚡ | **Quickdraw** — Closed issue/PR within 5 min | 🔒 Unlocking |
 | 🌟 | **Starstruck** — Repo with 16+ stars | 🔒 Unlocking |
 | 🧠 | **Galaxy Brain** — Marked helpful answer | 🔒 Unlocking |
-| 🦴 | **YOLO** — Merged PR without review | 🔒 Unlocking |
 | ❤️ | **Pair Extraordinaire** — Coauthored commits | 🔒 Unlocking |
-
-> 💡 *Keep committing & contributing — achievements unlock automatically on GitHub!*
 
 </div>
 
@@ -173,51 +145,37 @@ Solidity    █████░░░░░░░ 40%
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 🐍 [Errly](https://github.com/YUVRAJ-SINGH-3178/Errly)
+**AI-powered error explainer for your terminal**
 
-### 🛡️ [Kavch](https://github.com/YUVRAJ-SINGH-3178/Kavch)
+![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=f1c40f&logo=github)
+![Release](https://img.shields.io/github/v/release/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=a78bfa)
+![Lang](https://img.shields.io/github/languages/top/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=06b6d4)
 
-![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/Kavch?style=flat-square&color=f1c40f&logo=github)
-![Forks](https://img.shields.io/github/forks/YUVRAJ-SINGH-3178/Kavch?style=flat-square&color=06b6d4&logo=github)
-![Lang](https://img.shields.io/github/languages/top/YUVRAJ-SINGH-3178/Kavch?style=flat-square&color=a78bfa)
+Errly wraps Python and Node.js scripts, catches crashes, and turns raw tracebacks into plain-English explanations with a suggested fix — powered by the Groq API. Runs safely with no key (still shows the original error), redacts secrets before anything leaves your machine, and caches explanations locally to avoid repeat API calls.
 
-*Security / Protection focused project*
-
-</td>
-
-<td align="center" width="33%">
-
-### 📡 [DDAT](https://github.com/YUVRAJ-SINGH-3178/DDAT)
-
-![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/DDAT?style=flat-square&color=f1c40f&logo=github)
-![Forks](https://img.shields.io/github/forks/YUVRAJ-SINGH-3178/DDAT?style=flat-square&color=06b6d4&logo=github)
-![Lang](https://img.shields.io/github/languages/top/YUVRAJ-SINGH-3178/DDAT?style=flat-square&color=a78bfa)
-
-*Data / Decentralized App project*
+**Highlights:** cross-runtime (`.py`, `.js`, `.mjs`, `.cjs`) · secret redaction · local caching with TTL · retry logic with backoff · full test suite + CI · v0.2.1 released
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 🔧 Etio `Private · WIP`
+**GitHub Action that diagnoses failed CI jobs**
 
-### 🕊️ [orizuru](https://github.com/YUVRAJ-SINGH-3178/orizuru)
+![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
+![Lang](https://img.shields.io/badge/lang-Python-306998?style=flat-square&logo=python&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/orizuru?style=flat-square&color=f1c40f&logo=github)
-![Forks](https://img.shields.io/github/forks/YUVRAJ-SINGH-3178/orizuru?style=flat-square&color=06b6d4&logo=github)
-![Lang](https://img.shields.io/github/languages/top/YUVRAJ-SINGH-3178/orizuru?style=flat-square&color=a78bfa)
+A composite GitHub Action that investigates a failed CI job directly in the repo where it runs — pulling the failed job's Actions log, extracting the relevant error context, and (soon) comparing it against recent commits and requesting a redacted diagnosis from Groq.
 
-*Creative / origami-inspired project*
+**Highlights:** pulls logs via the Actions API without exposing the GitHub token · never writes raw logs to disk · pre-commit hooks + CI scaffolding already in place · auto-PR diagnosis planned as an opt-in feature
 
 </td>
-
 </tr>
 </table>
-
-</div>
 
 ---
 
