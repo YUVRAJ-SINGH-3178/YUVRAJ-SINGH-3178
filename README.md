@@ -1,14 +1,4 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
-    <img alt="Yuvraj Singh Hero Banner" src="dark.svg?v=2">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/YUVRAJ-SINGH-3178">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-stack+dev+%7C+MERN+%2B+Flutter+%F0%9F%93%B1;Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Shipping+side+projects+%F0%9F%9A%80;" alt="Typing SVG" />
   </a>
@@ -38,7 +28,7 @@ Location  →  India 🇮🇳
 Status    →  Building developer tools & shipping side projects
 ```
 
-**🔭 Currently building** developer tooling — see [Errly](https://github.com/YUVRAJ-SINGH-3178/Errly) below  
+**🔭 Currently building** developer tooling — see [Etio](https://github.com/YUVRAJ-SINGH-3178/Etio) below  
 **🌱 Deep-diving into** Solidity, DeFi protocols, and Kotlin for Android  
 **🤝 Open to collaborating** on Full-Stack and open source
 
@@ -48,20 +38,27 @@ Status    →  Building developer tools & shipping side projects
 
 ## ⚡ Tech Stack
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YUVRAJ-SINGH-3178&theme=tokyonight" alt="Top Languages by Repo" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YUVRAJ-SINGH-3178&theme=tokyonight" alt="Top Languages by Commit" />
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td valign="top" width="33%">
 
 **💻 Languages**
-```
-JavaScript  ████████████ 90%
-TypeScript  █████████░░░ 75%
-Python      ████████░░░░ 65%
-Dart        ███████░░░░░ 60%
-Kotlin      ██████░░░░░░ 55%
-C / C++     ██████░░░░░░ 50%
-Solidity    █████░░░░░░░ 40%
-```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -138,7 +135,7 @@ Solidity    █████░░░░░░░ 40%
 ## 📅 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YUVRAJ-SINGH-3178&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" />
+  <img src="https://activity-graph.vercel.app/graph?username=YUVRAJ-SINGH-3178&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" />
 </div>
 
 ---
