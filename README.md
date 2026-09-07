@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-stack+dev+%7C+MERN+%2B+Flutter+%F0%9F%93%B1;Building+dApps+on+the+blockchain+%E2%9B%93%EF%B8%8F;Shipping+side+projects+%F0%9F%9A%80;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-stack+dev+%7C+MERN+%2B+Flutter+%F0%9F%93%B1;Cloud+Computing+%26+DevSecOps+%E2%98%81%EF%B8%8F;Automating+CI%2FCD+%26+Infrastructure+%E2%9A%99%EF%B8%8F;Shipping+side+projects+%F0%9F%9A%80;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,14 +23,14 @@
 ```
 Name      →  Yuvraj Singh
 Role      →  Student & Full Stack Developer
-Stack     →  MERN | Flutter | Web3
+Stack     →  MERN | DevSecOps | Cloud Computing
 Location  →  India 🇮🇳
-Status    →  Building developer tools & shipping side projects
+Status    →  Building developer tools & cloud automation
 ```
 
 **🔭 Currently building** developer tooling — see [Etio](https://github.com/YUVRAJ-SINGH-3178/Etio) below  
-**🌱 Deep-diving into** Solidity, DeFi protocols, and Kotlin for Android  
-**🤝 Open to collaborating** on Full-Stack and open source
+**🌱 Deep-diving into** DevSecOps, Docker & Kubernetes, CI/CD security, and Cloud Computing  
+**🤝 Open to collaborating** on Cloud Infrastructure, DevSecOps pipelines, and Full-Stack
 
 <br clear="right"/>
 
@@ -58,7 +58,7 @@ Status    →  Building developer tools & shipping side projects
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -86,13 +86,14 @@ Status    →  Building developer tools & shipping side projects
 </tr>
 </table>
 
-### ⛓️ Web3 & Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+### ☁️ DevSecOps & Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
