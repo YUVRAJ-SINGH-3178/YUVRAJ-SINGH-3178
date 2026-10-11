@@ -1,175 +1,98 @@
 <div align="center">
-  <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-stack+dev+%7C+MERN+%2B+Flutter+%F0%9F%93%B1;Cloud+Computing+%26+DevSecOps+%E2%98%81%EF%B8%8F;Automating+CI%2FCD+%26+Infrastructure+%E2%9A%99%EF%B8%8F;Shipping+side+projects+%F0%9F%9A%80;" alt="Typing SVG" />
-  </a>
-</div>
+
+<img width="100%" src="./assets/banner.jpg" alt="Yuvraj Singh Header Banner" />
+
+<!-- Dynamic Animated Typing Header -->
+<a href="https://github.com/YUVRAJ-SINGH-3178">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=DevSecOps+Engineer+%26+Cloud+Automation+%E2%98%81%EF%B8%8F;Creator+of+Etio+Auto-Doctor+(Live+on+GitHub+Marketplace)+%F0%9F%9A%80;Building+Errly:+AI+CLI+Crash+Explainer+%F0%9F%90%8D;Hardening+CI%2FCD+Pipelines+%26+Infrastructure+%E2%9A%99%EF%B8%8F;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+MERN+%F0%9F%9B%A1%EF%B8%8F;" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YUVRAJ-SINGH-3178&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" />
+<!-- Status Badges -->
+<p align="center">
+  <a href="https://github.com/marketplace/actions/etio-ci-failure-auto-doctor">
+    <img src="https://img.shields.io/badge/Marketplace-Etio_CI_Auto--Doctor-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Marketplace" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YUVRAJ-SINGH-3178?style=flat-square&color=06b6d4&label=FOLLOWERS&logo=github" />
+  <a href="mailto:satishyuvraj.singh3178@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open_To_Work-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open To Work" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-4ade80?style=flat-square" />
+  <a href="https://github.com/Singularity-Student-Lab">
+    <img src="https://img.shields.io/badge/Org-%40Singularity--Student--Lab-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Singularity Student Lab" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YUVRAJ-SINGH-3178">
+    <img src="https://komarev.com/ghpvc/?username=YUVRAJ-SINGH-3178&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YUVRAJ-SINGH-3178?tab=followers">
+    <img src="https://img.shields.io/github/followers/YUVRAJ-SINGH-3178?style=for-the-badge&color=06b6d4&label=FOLLOWERS&logo=github" alt="Followers" />
+  </a>
+</p>
+
 </div>
 
 ---
-
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### `> whoami`
 
+```yaml
+identity:
+  name: Yuvraj Singh
+  role: DevSecOps Engineer & Full-Stack Tooling Architect
+  focus: CI/CD Hardening, Cloud Infrastructure, Automated Diagnostics
+  affiliation: Singularity Student Lab (@Singularity-Student-Lab)
+  location: India 🇮🇳
+  status: Actively shipping open-source tools & cloud infrastructure
 ```
-Name      →  Yuvraj Singh
-Role      →  Student & Full Stack Developer
-Stack     →  MERN | DevSecOps | Cloud Computing
-Location  →  India 🇮🇳
-Status    →  Building developer tools & cloud automation
-```
 
-**🔭 Currently building** developer tooling — see [Etio](https://github.com/YUVRAJ-SINGH-3178/Etio) below  
-**🌱 Deep-diving into** DevSecOps, Docker & Kubernetes, CI/CD security, and Cloud Computing  
-**🤝 Open to collaborating** on Cloud Infrastructure, DevSecOps pipelines, and Full-Stack
+- 🚀 **Marketplace Author**: Shipped [Etio CI Failure Auto-Doctor](https://github.com/marketplace/actions/etio-ci-failure-auto-doctor) (`v0.1.1`) to the **GitHub Marketplace**: automated diagnosis of failed CI jobs with zero secret leaks.
+- 🐍 **Developer Tooling**: Built [Errly](https://github.com/YUVRAJ-SINGH-3178/Errly) (`v0.2.1`), an AI-powered terminal CLI that intercepts and explains Python & Node.js crashes in plain English.
+- 🛡️ **DevSecOps & Cloud**: Orchestrating secure, resilient environments across **Docker**, **Kubernetes**, **AWS**, **Terraform**, and automated security scanning pipelines.
+- 🔬 **High-Assurance Systems**: Engineering [ULPF](https://github.com/YUVRAJ-SINGH-3178/ULPF) (Universal Log Pre-processing Framework) for SIEM telemetry and [PoF](https://github.com/YUVRAJ-SINGH-3178/PoF) for biometric verification.
+- 💼 **Open to Work**: Seeking SRE, DevSecOps, Cloud Engineering, and Full-Stack roles.
 
-<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YUVRAJ-SINGH-3178&theme=tokyonight" alt="Top Languages by Repo" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YUVRAJ-SINGH-3178&theme=tokyonight" alt="Top Languages by Commit" />
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**💻 Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🌐 Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**⚙️ Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-### ☁️ DevSecOps & Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&label=Total%20Stars&color=f1c40f)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/YUVRAJ-SINGH-3178?style=for-the-badge&logo=github&label=Followers&color=a78bfa)
-&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-check%20profile-06b6d4?style=for-the-badge&logo=github)
-
-<br/><br/>
-
-| 🏅 Total Contributions | 📅 Member Since |
-|:---:|:---:|
-| **500+** | **Jul 2025** |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Badge | Achievement | Status |
-|:---:|---|:---:|
-| 🦈 | **Pull Shark** — Merged pull requests | Unlocked 🔓 |
-| ⚡ | **Quickdraw** — Closed issue/PR within 5 min | 🔒 Unlocking |
-| 🌟 | **Starstruck** — Repo with 16+ stars | 🔒 Unlocking |
-| 🧠 | **Galaxy Brain** — Marked helpful answer | 🔒 Unlocking |
-| ❤️ | **Pair Extraordinaire** — Coauthored commits | 🔒 Unlocking |
-
-</div>
-
----
-
-## 📅 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=YUVRAJ-SINGH-3178&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" />
-</div>
-
----
-
-## 🚀 Featured Projects
+## ⚡ Tech Stack & Tooling
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 [Errly](https://github.com/YUVRAJ-SINGH-3178/Errly)
-**AI-powered error explainer for your terminal**
-
-![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=f1c40f&logo=github)
-![Release](https://img.shields.io/github/v/release/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=a78bfa)
-![Lang](https://img.shields.io/github/languages/top/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=06b6d4)
-
-Errly wraps Python and Node.js scripts, catches crashes, and turns raw tracebacks into plain-English explanations with a suggested fix — powered by the Groq API. Runs safely with no key (still shows the original error), redacts secrets before anything leaves your machine, and caches explanations locally to avoid repeat API calls.
-
-**Highlights:** cross-runtime (`.py`, `.js`, `.mjs`, `.cjs`) · secret redaction · local caching with TTL · retry logic with backoff · full test suite + CI · v0.2.1 released
+### ☁️ Cloud & DevSecOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,linux,nginx,git,bash" alt="Cloud & DevSecOps" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Etio `Private · WIP`
-**GitHub Action that diagnoses failed CI jobs**
+### 💻 Programming Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,kotlin,cpp,bash" alt="Programming Languages" />
+</a>
 
-![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
-![Lang](https://img.shields.io/badge/lang-Python-306998?style=flat-square&logo=python&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A composite GitHub Action that investigates a failed CI job directly in the repo where it runs — pulling the failed job's Actions log, extracting the relevant error context, and (soon) comparing it against recent commits and requesting a redacted diagnosis from Groq.
+### 🌐 Frontend & Mobile
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux" alt="Frontend & Mobile" />
+</a>
 
-**Highlights:** pulls logs via the Actions API without exposing the GitHub token · never writes raw logs to disk · pre-commit hooks + CI scaffolding already in place · auto-PR diagnosis planned as an opt-in feature
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend & Databases" />
+</a>
 
 </td>
 </tr>
@@ -177,18 +100,167 @@ A composite GitHub Action that investigates a failed CI job directly in the repo
 
 ---
 
-## 🤝 Find Me Here
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Etio CI Failure Auto-Doctor](https://github.com/YUVRAJ-SINGH-3178/Etio)
+<a href="https://github.com/marketplace/actions/etio-ci-failure-auto-doctor">
+  <img src="https://img.shields.io/badge/GitHub_Marketplace-Action_Available-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Marketplace" />
+</a>
+<br/>
+
+[![Latest Release](https://img.shields.io/github/v/release/YUVRAJ-SINGH-3178/Etio?style=flat-square&color=2ea44f&logo=github)](https://github.com/YUVRAJ-SINGH-3178/Etio/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/YUVRAJ-SINGH-3178/Etio/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Groq AI](https://img.shields.io/badge/AI_Engine-Groq-f55036?style=flat-square)](https://groq.com)
+[![Security](https://img.shields.io/badge/Security-Zero_Secret_Leaks-10B981?style=flat-square&logo=shield&logoColor=white)](https://github.com/YUVRAJ-SINGH-3178/Etio)
+
+**AI-assisted diagnostic action for failing GitHub CI pipelines.** Runs directly inside the target repository workflow, pulls failure logs without exposing workflow tokens, correlates crashes with recent commit diffs, runs bounded bisection, and requests redacted root-cause diagnosis from Groq.
+
+```yaml
+# Drop into any workflow:
+- name: 🩺 Run Etio Auto-Doctor
+  uses: YUVRAJ-SINGH-3178/Etio@v0.1.1
+  if: failure()
+  with:
+    github-token: ${{ secrets.GITHUB_TOKEN }}
+    groq-api-key: ${{ secrets.GROQ_API_KEY }}
+```
+
+**Key Features:**
+- 🛡️ Zero token or secret leakage (scrubs credentials before inference)
+- ⚡ In-repo execution with immediate PR/summary feedback
+- 🔬 Real workflow bisection via bounded `workflow_dispatch`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 [Errly: Terminal Crash Explainer](https://github.com/YUVRAJ-SINGH-3178/Errly)
+
+[![Latest Release](https://img.shields.io/github/v/release/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=f59e0b&logo=python)](https://github.com/YUVRAJ-SINGH-3178/Errly/releases)
+[![Stars](https://img.shields.io/github/stars/YUVRAJ-SINGH-3178/Errly?style=flat-square&color=f1c40f&logo=github)](https://github.com/YUVRAJ-SINGH-3178/Errly)
+[![CLI](https://img.shields.io/badge/Type-Developer_CLI-06b6d4?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/YUVRAJ-SINGH-3178/Errly)
+
+**AI-powered CLI that turns terminal stack traces into plain English.** Wraps Python and Node.js execution, catches crashes, and outputs clear, actionable remediation steps powered by the Groq API.
+
+```bash
+# Wrap scripts directly with Errly:
+errly run python app.py
+errly run node server.js
+```
+
+**Key Features:**
+- 🌐 Multi-runtime: `.py`, `.js`, `.mjs`, `.cjs`
+- 🔒 Client-side secret redaction before network egress
+- ⚡ Local TTL-based caching to prevent redundant API queries
+- 🛡️ Offline-safe: gracefully shows original error if API is unreachable
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [ULPF: Universal Log Pre-processing Framework](https://github.com/YUVRAJ-SINGH-3178/ULPF)
+
+[![Domain](https://img.shields.io/badge/Domain-DevSecOps%20%26%20Telemetry-7c3aed?style=flat-square&logo=shield&logoColor=white)](https://github.com/YUVRAJ-SINGH-3178/ULPF)
+[![Python](https://img.shields.io/badge/Python-High--Assurance-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/YUVRAJ-SINGH-3178/ULPF)
+
+A high-assurance telemetry preprocessing and normalization pipeline engineered for strategic defense, perimeter nodes, and enterprise SIEM / Data Lake ingestion sinks.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [PoF: Proof of Footprint](https://github.com/YUVRAJ-SINGH-3178/PoF)
+
+[![Biometrics](https://img.shields.io/badge/Biometrics-FaceNet%20%2F%20Embedding-06b6d4?style=flat-square)](https://github.com/YUVRAJ-SINGH-3178/PoF)
+[![Storage](https://img.shields.io/badge/Proof-IPFS%20%2B%20Blockchain-f59e0b?style=flat-square&logo=ipfs)](https://github.com/YUVRAJ-SINGH-3178/PoF)
+
+End-to-end identity verification pipeline: discovers candidate social profiles via reverse-image search, verifies biometric embedding distance, and anchors immutable cryptographic records onto IPFS and public blockchain testnets.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Dynamic GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-3178saturn)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ig_yuvie)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishyuvraj.singh3178@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ-SINGH-3178&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0" alt="Yuvraj's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVRAJ-SINGH-3178&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=a855f7" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ-SINGH-3178&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+</p>
+
+<br/>
+
+| 🏅 Total Contributions | 📦 Public Repositories | 🚀 Published Actions | 📅 Active Member Since |
+|:---:|:---:|:---:|:---:|
+| **500+** | **30** | **GitHub Marketplace Author** | **Jul 2025** |
 
 </div>
 
 ---
 
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=28&fontColor=a78bfa&animation=fadeIn"/>
+
+<table align="center">
+<tr>
+<td align="center" width="160px">
+  <a href="https://github.com/YUVRAJ-SINGH-3178?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="96px" alt="Pull Shark Bronze" />
+  </a>
+  <br/>
+  <b>Pull Shark</b>
+  <br/>
+  <sub>Bronze • Merged PRs</sub>
+</td>
+<td align="center" width="160px">
+  <a href="https://github.com/YUVRAJ-SINGH-3178?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="96px" alt="YOLO" />
+  </a>
+  <br/>
+  <b>YOLO</b>
+  <br/>
+  <sub>Merged PR Without Review</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-3178saturn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YUVRAJ-SINGH-3178">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:satishyuvraj.singh3178@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ig_yuvie">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 </div>
