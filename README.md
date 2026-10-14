@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="http://www.yuvilee.xyz/">
-  <img width="100%" src="./assets/banner.jpg" alt="Yuvraj Singh Header Banner" />
+  <img width="100%" src="./assets/header.jpg" alt="Yuvraj Singh Header Banner" />
 </a>
 
 <!-- Dynamic Animated Typing Header -->
@@ -27,10 +27,6 @@
   &nbsp;
   <a href="https://github.com/Singularity-Student-Lab">
     <img src="https://img.shields.io/badge/Org-%40Singularity--Student--Lab-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Singularity Student Lab" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YUVRAJ-SINGH-3178">
-    <img src="https://komarev.com/ghpvc/?username=YUVRAJ-SINGH-3178&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   &nbsp;
   <a href="https://github.com/YUVRAJ-SINGH-3178?tab=followers">
