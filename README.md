@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.jpg" alt="Yuvraj Singh Header Banner" />
+<a href="http://www.yuvilee.xyz/">
+  <img width="100%" src="./assets/banner.jpg" alt="Yuvraj Singh Header Banner" />
+</a>
 
 <!-- Dynamic Animated Typing Header -->
 <a href="https://github.com/YUVRAJ-SINGH-3178">
@@ -11,6 +13,10 @@
 
 <!-- Status Badges -->
 <p align="center">
+  <a href="http://www.yuvilee.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-yuvilee.xyz-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://github.com/marketplace/actions/etio-ci-failure-auto-doctor">
     <img src="https://img.shields.io/badge/Marketplace-Etio_CI_Auto--Doctor-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Marketplace" />
   </a>
@@ -43,6 +49,7 @@ identity:
   name: Yuvraj Singh
   role: DevSecOps Engineer & Full-Stack Tooling Architect
   focus: CI/CD Hardening, Cloud Infrastructure, Automated Diagnostics
+  portfolio: http://www.yuvilee.xyz/
   affiliation: Singularity Student Lab (@Singularity-Student-Lab)
   location: India 🇮🇳
   status: Actively shipping open-source tools & cloud infrastructure
@@ -246,6 +253,10 @@ End-to-end identity verification pipeline: discovers candidate social profiles v
 <div align="center">
 
 <p align="center">
+  <a href="http://www.yuvilee.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-yuvilee.xyz-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/yuvraj-singh-3178saturn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
